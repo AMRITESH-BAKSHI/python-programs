@@ -1,0 +1,3 @@
+{'name': 'krishna', 'contact number': 98345345}
+{'name': 'hanuman', 'contact number': 64141231}
+{'name': 'ramji', 'contact number': 234234234}
