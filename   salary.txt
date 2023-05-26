@@ -1,0 +1,8 @@
+harshit 'ssalary is100
+mohit'ssalary is50
+aditya'ssalary is200
+nitish'ssalary is500
+harshit 'ssalary is100
+mohit'ssalary is50
+aditya'ssalary is200
+nitish'ssalary is500
